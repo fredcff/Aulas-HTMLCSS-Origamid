@@ -1,0 +1,21 @@
+/* Métodos de seleção de CSS*/
+
+/* Pode-se selecionar somente uma tag*/
+a {
+  color: blue;
+}
+
+/* Para selecionar somente um elemento que esteja dentro de outro utiliza-se a seguinte sintaxe*/
+p a {
+  color: red;
+}
+
+/* Utiliza-se a # para selecionar id*/
+#titulo {
+  color: green;
+}
+
+/* Utiliza-se o . para selecionar classes*/
+.produtos {
+  color: purple;
+}

@@ -1,0 +1,29 @@
+html {
+  font-family: Arial;
+}
+
+h1 {
+  text-align: center;
+}
+.produtos {
+  background-color: #111;
+  border-radius: 4px;
+  margin: 35px;
+  color: white;
+  padding: 20px;
+  padding-top: 5px;
+}
+.descricaoproduto {
+  color: #b2b2b2;
+}
+span {
+  color: #febe01;
+}
+
+a {
+  border-radius: 4px;
+  background-color: #febe01;
+  color: #332200;
+  text-decoration: none;
+  padding: 6px;
+}
